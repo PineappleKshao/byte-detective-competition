@@ -10,7 +10,7 @@
 
 | Audience · 适合对象 | Format · 活动形式 | Access · 使用方式 |
 | --- | --- | --- |
-| Grade 7 · 七年级 | 5 groups × 3 rounds · 5 组 × 3 轮 | Offline after download · 下载后离线使用 |
+| Grade 7/8 · 七八年级 | 5 groups × 3 rounds · 5 组 × 3 轮 | Offline after download · 下载后离线使用 |
 
 <a id="english"></a>
 
